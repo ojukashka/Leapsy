@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "name": "Espresso",
+    "price": "$1.50 / spruce",
+    "img": "https://images.unsplash.com/photo-1572286258217-40142c1c6a70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80"
+  },
+  {
+    "id": 1,
+    "name": "Ristretto",
+    "price": "$1.99 / spruce",
+    "img": "https://images.unsplash.com/photo-1610889556528-9a770e32642f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1915&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Iced Americano",
+    "price": "$3.00 / spruce",
+    "img": "https://images.unsplash.com/photo-1581996323441-538096e854b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aWNlZCUyMGFtZXJpY2Fub3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Americano",
+    "price": "$2.50 / spruce",
+    "img": "https://images.unsplash.com/photo-1551030173-122aabc4489c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YW1lcmljYW5vfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Long Black",
+    "price": "$3.15 / spruce",
+    "img": "https://images.unsplash.com/photo-1644893197562-7b60ae75fb61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZyUyMGJsYWNrfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Latte Macchiato",
+    "price": "$4.23 / spruce",
+    "img": "https://images.unsplash.com/photo-1506372023823-741c83b836fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FmZSUyMGxhdHRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Cappuccino",
+    "price": "$3.50 / spruce",
+    "img": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FwcHVjY2lub3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": 7,
+    "name": "Flat White",
+    "price": "$3.50 / spruce",
+    "img": "https://images.unsplash.com/photo-1499721297526-536718e770ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Spicy Pumpkin Latte",
+    "price": "$4.15 / spruce",
+    "img": "https://images.unsplash.com/photo-1604936168367-d79d0041e615?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVtcGtpbiUyMGxhdHRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": 9,
+    "name": "Pink Latte",
+    "price": "$4.15 / spruce",
+    "img": "https://images.unsplash.com/photo-1543393786-bf757bfea009?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBpbmslMjBsYXR0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": 10,
+    "name": "Caramel Frappuccino",
+    "price": "$4.15 / spruce",
+    "img": "https://images.unsplash.com/photo-1662047102608-a6f2e492411f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2FyYW1lbCUyMGZyYXBwdWNjaW5vfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 11,
+    "name": "Matcha Latte",
+    "price": "$4.15 / spruce",
+    "img": "https://images.unsplash.com/photo-1621670341531-85acf0f29343?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1hdGNoYSUyMGxhdHRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 12,
+    "name": "Coffee Cocktail",
+    "price": "$4.15 / spruce",
+    "img": "https://images.unsplash.com/photo-1652781038776-9882849d46ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fG9yYW5nZSUyMGVzcHJlc3NvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+  }
+]
